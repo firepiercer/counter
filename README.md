@@ -10,4 +10,4 @@ SimpleCounter is a basic web application that allows users to increase, decrease
 
 ## Demo
 
-You can view a live demo of the project [here](https://your-demo-link.com).
+You can view a live demo of the project [here](https://firepiercer.github.io/counter/).
