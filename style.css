@@ -1,0 +1,73 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btnContainer{
+    text-align: center;
+}
+.decbtn {
+    padding: 10px 20px;
+    margin: 15px;
+    font-size: 1.5em;
+    color: white;
+    background-color: #FF8080;
+    border-color: #FF8080;
+    border-style: solid;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s, border-color 0.3s;
+    transition: transform 0.2s ease;
+}
+.decbtn:hover {
+    background-color: #FF4040;
+    border-color: #FF4040;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.decbtn:active {
+    transform: scale(0.9);
+}
+.incbtn {
+    padding: 10px 20px;
+    margin: 15px;
+    font-size: 1.5em;
+    color: white;
+    background-color: #CDFAD5;
+    border-color: #CDFAD5;
+    border-style: solid;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s, border-color 0.3s;
+    transition: transform 0.2s ease;
+}
+.incbtn:hover {
+    background-color: #21b441;
+    border-color: #21b441;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.incbtn:active {
+    transform: scale(0.9);
+}
+.rstbtn {
+    padding: 10px 20px;
+    margin: 15px;
+    font-size: 1.5em;
+    color: white;
+    background-color: #FFCF96;
+    border-color: #FFCF96;
+    border-style: solid;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s, border-color 0.3s;
+    transition: transform 0.2s ease;
+}
+.rstbtn:hover {
+    background-color: #FFA500;
+    border-color: #FFA500;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.rstbtn:active {
+    transform: scale(0.9);
+}
